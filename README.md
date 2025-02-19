@@ -16,3 +16,6 @@
 3 Tạo file .env ở gốc dự án và cấu hình các biến môi trường cần thiết , tham khảo file .env.example
 
 4. Khởi chạy sever npm run start:dev
+
+============
+Nếu dùng docker thì khởi chạy sever bằng : docker-compose up --build

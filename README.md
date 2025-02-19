@@ -10,7 +10,7 @@
 
 1. Clone repository
    https://github.com/ducchien0612/nest-course-management.git
-   cd online-course-management
+   cd nest-course-management
 2 Cài đặt dependencies: npm install
 
 3 Tạo file .env ở gốc dự án và cấu hình các biến môi trường cần thiết , tham khảo file .env.example
